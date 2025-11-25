@@ -1,0 +1,2 @@
+data/news/raw_analyst_ratings.csv filter=lfs diff=lfs merge=lfs -text
+data/stocks/*.csv filter=lfs diff=lfs merge=lfs -text
