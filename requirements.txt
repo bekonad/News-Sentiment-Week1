@@ -9,3 +9,5 @@ statsmodels
 yfinance
 ta-lib
 pynance
+vaderSentiment
+TA-Lib==0.6.8
